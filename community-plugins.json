@@ -1,5 +1,12 @@
 [
   {
+    "id": "dedao-kb-sync",
+    "name": "得到大脑知识库同步",
+    "author": "Marvincao",
+    "description": "按知识库自动建文件夹并打标签，把得到大脑（原Get笔记）的笔记与订阅的抖音博主内容同步到 Obsidian。",
+    "repo": "leschamy4-del/obsidian-dedao-kb-sync"
+  },
+  {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
     "author": "argenos",
